@@ -1,15 +1,6 @@
 # TeddyPups Clone
 
-A clone of https://puppy.instabizweb.com/ built with Next.js (App Router).
-
-## Live demo
-https://YOUR-PROJECT.vercel.app
-
-## Tech stack
-- Next.js (App Router), React, JavaScript
-- Plain CSS with CSS variables
-- next/font (Fraunces, Nunito, Caveat)
-- Vercel for hosting
+A clone of https://puppy.instabizweb.com/ built with Next.js (App Router), JavaScript and plain CSS.
 
 ## Pages
 Home, Puppies (filters), Puppy detail, Gone home, Happy families, How it works, FAQ, Contact
@@ -20,3 +11,7 @@ npm run dev
 
 ## Build
 npm run build
+npm start
+
+## Tech
+Next.js, React, CSS variables, next/font, Next.js API route for the forms
